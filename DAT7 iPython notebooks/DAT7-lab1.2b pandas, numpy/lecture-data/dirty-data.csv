@@ -1,0 +1,99 @@
+Year,Facility Id,Facility Name,APR DRG Code,APR Severity of Illness Code,APR DRG Description,APR Severity of Illness Description,APR Medical Surgical Code,APR Medical Surgical Description,Discharges,Mean Charge,Median Charge,Mean Cost,Median Cost
+2011,324,Adirondack Medical Center-Saranac Lake Site,004,4,Tracheostomy W MV 96+ Hours W Extensive Procedure Or Ecmo,Extreme,P,Surgical,3,$361289.00,$210882.00,$196080.00,$123347.00
+2011,324,Adirondack Medical Center-Saranac Lake Site,005,4,Tracheostomy W MV 96+ Hours W/O Extensive Procedure,Extreme,P,Surgical,1,$102190.00,$102190.00,$59641.00,$59641.00
+2011,324,Adirondack Medical Center-Saranac Lake Site,024,2,Extracranial Vascular Procedures,Moderate,P,Surgical,6,$14172.00,$13506.00,$6888.00,$6445.00
+2011,324,Adirondack Medical Center-Saranac Lake Site,026,1,Other Nervous System & Related Procedures,Minor,P,Surgical,1,$8833.00,$8833.00,$4259.00,$4259.00
+2011,324,Adirondack Medical Center-Saranac Lake Site,041,1,Nervous System Malignancy,Minor,M,Medical,1,$5264.00,$5264.00,$1727.00,$1727.00
+2011,324,Adirondack Medical Center-Saranac Lake Site,041,2,Nervous System Malignancy,Moderate,M,Medical,1,$17314.00,$17314.00,$5826.00,$5826.00
+2011,324,Adirondack Medical Center-Saranac Lake Site,042,2,Degenerative Nervous System Disorders Exc Mult Sclerosis,Moderate,M,Medical,4,$11574.00,$11190.00,$6122.00,$5729.00
+2011,324,Adirondack Medical Center-Saranac Lake Site,042,3,Degenerative Nervous System Disorders Exc Mult Sclerosis,Major,M,Medical,2,$18195.00,$18195.00,$9919.00,$9919.00
+2011,324,Adirondack Medical Center-Saranac Lake Site,042,4,Degenerative Nervous System Disorders Exc Mult Sclerosis,Extreme,M,Medical,1,$18243.00,$18243.00,$9694.00,$9694.00
+2011,324,Adirondack Medical Center-Saranac Lake Site,043,1,Multiple Sclerosis & Other Demyelinating Diseases,Minor,M,Medical,1,$28313.00,$28313.00,$10598.00,$10598.00
+2011,324,Adirondack Medical Center-Saranac Lake Site,043,3,Multiple Sclerosis & Other Demyelinating Diseases,Major,M,Medical,1,$6186.00,$6186.00,$4014.00,$4014.00
+2011,324,Adirondack Medical Center-Saranac Lake Site,044,3,Intracranial Hemorrhage,Major,M,Medical,2,$10174.00,$10174.00,$4438.00,$4438.00
+2011,324,Adirondack Medical Center-Saranac Lake Site,044,4,Intracranial Hemorrhage,Extreme,M,Medical,1,$8833.00,$8833.00,$4071.00,$4071.00
+2011,324,Adirondack Medical Center-Saranac Lake Site,045,3,CVA & Precerebral Occlusion W Infarct,Major,M,Medical,11,$21629.00,$20156.00,$11648.00,$9660.00
+2011,324,Adirondack Medical Center-Saranac Lake Site,045,4,CVA & Precerebral Occlusion W Infarct,Extreme,M,Medical,4,$30637.00,$29466.00,$17262.00,$17249.00
+2011,324,Adirondack Medical Center-Saranac Lake Site,045,1,CVA & Precerebral Occlusion W Infarct,Minor,M,Medical,4,$16533.00,$15251.00,$6925.00,$7431.00
+2011,324,Adirondack Medical Center-Saranac Lake Site,045,2,CVA & Precerebral Occlusion W Infarct,Moderate,M,Medical,20,$14958.00,$14812.00,$7118.00,$7095.00
+2011,324,Adirondack Medical Center-Saranac Lake Site,046,2,Nonspecific CVA & Precerebral Occlusion W/O Infarct,Moderate,M,Medical,2,$9032.00,$9032.00,$4407.00,$4407.00
+2011,324,Adirondack Medical Center-Saranac Lake Site,047,1,Transient Ischemia,Minor,M,Medical,4,$15246.00,$14574.00,$6416.00,$6497.00
+2011,324,Adirondack Medical Center-Saranac Lake Site,047,2,Transient Ischemia,Moderate,M,Medical,4,$11039.00,$10144.00,$4586.00,$4773.00
+2011,324,Adirondack Medical Center-Saranac Lake Site,047,3,Transient Ischemia,Major,M,Medical,1,$15310.00,$15310.00,$5018.00,$5018.00
+2011,324,Adirondack Medical Center-Saranac Lake Site,048,2,"Peripheral, Cranial & Autonomic Nerve Disorders",Moderate,M,Medical,2,$12954.00,$12954.00,$6600.00,$6600.00
+2011,324,Adirondack Medical Center-Saranac Lake Site,048,3,"Peripheral, Cranial & Autonomic Nerve Disorders",Major,M,Medical,2,$11922.00,$11922.00,$7022.00,$7022.00
+2011,324,Adirondack Medical Center-Saranac Lake Site,048,4,"Peripheral, Cranial & Autonomic Nerve Disorders",Extreme,M,Medical,1,$17802.00,$17802.00,$9721.00,$9721.00
+2011,324,Adirondack Medical Center-Saranac Lake Site,051,1,Viral Meningitis,Minor,M,Medical,1,$17116.00,$17116.00,$7006.00,$7006.00
+2011,324,Adirondack Medical Center-Saranac Lake Site,052,1,Nontraumatic Stupor & Coma,Minor,M,Medical,1,$10111.00,$10111.00,$3776.00,$3776.00
+2011,324,Adirondack Medical Center-Saranac Lake Site,052,3,Nontraumatic Stupor & Coma,Major,M,Medical,5,$14780.00,$13939.00,$7207.00,$6486.00
+2011,324,Adirondack Medical Center-Saranac Lake Site,052,4,Nontraumatic Stupor & Coma,Extreme,M,Medical,1,$28849.00,$28849.00,$17483.00,$17483.00
+2011,324,Adirondack Medical Center-Saranac Lake Site,053,1,Seizure,Minor,M,Medical,3,$6096.00,$6317.00,$3259.00,$3456.00
+2011,324,Adirondack Medical Center-Saranac Lake Site,053,2,Seizure,Moderate,M,Medical,3,$9856.00,$8088.00,$4849.00,$4153.00
+2011,324,Adirondack Medical Center-Saranac Lake Site,053,3,Seizure,Major,M,Medical,1,$8233.00,$8233.00,$4823.00,$4823.00
+2011,324,Adirondack Medical Center-Saranac Lake Site,054,1,Migraine & Other Headaches,Minor,M,Medical,7,$10758.00,$9300.00,$5886.00,$5736.00
+2011,324,Adirondack Medical Center-Saranac Lake Site,054,2,Migraine & Other Headaches,Moderate,M,Medical,2,$9380.00,$9380.00,$5265.00,$5265.00
+2011,324,Adirondack Medical Center-Saranac Lake Site,054,3,Migraine & Other Headaches,Major,M,Medical,1,$5157.00,$5157.00,$1905.00,$1905.00
+2011,324,Adirondack Medical Center-Saranac Lake Site,055,1,Head Trauma W Coma >1 Hr Or Hemorrhage,Minor,M,Medical,1,$22185.00,$22185.00,$7388.00,$7388.00
+2011,324,Adirondack Medical Center-Saranac Lake Site,055,2,Head Trauma W Coma >1 Hr Or Hemorrhage,Moderate,M,Medical,1,$20149.00,$20149.00,$9309.00,$9309.00
+2011,324,Adirondack Medical Center-Saranac Lake Site,055,3,Head Trauma W Coma >1 Hr Or Hemorrhage,Major,M,Medical,3,$9486.00,$8487.00,$4357.00,$4521.00
+2011,324,Adirondack Medical Center-Saranac Lake Site,056,2,"Brain Contusion/Laceration & Complicated Skull Fx, Coma < 1 Hr Or No Coma",Moderate,M,Medical,1,$10281.00,$10281.00,$5136.00,$5136.00
+2011,324,Adirondack Medical Center-Saranac Lake Site,058,1,Other Disorders Of Nervous System,Minor,M,Medical,1,$11478.00,$11478.00,$4545.00,$4545.00
+2011,324,Adirondack Medical Center-Saranac Lake Site,058,2,Other Disorders Of Nervous System,Moderate,M,Medical,1,$12989.00,$12989.00,$5439.00,$5439.00
+2011,324,Adirondack Medical Center-Saranac Lake Site,058,3,Other Disorders Of Nervous System,Major,M,Medical,3,$16921.00,$13250.00,$8971.00,$7832.00
+2011,324,Adirondack Medical Center-Saranac Lake Site,070,2,Orbital Procedures,Moderate,P,Surgical,1,$13470.00,$13470.00,$7555.00,$7555.00
+2011,324,Adirondack Medical Center-Saranac Lake Site,082,2,Eye Disorders Except Major Infections,Moderate,M,Medical,1,$25027.00,$25027.00,$9532.00,$9532.00
+2011,324,Adirondack Medical Center-Saranac Lake Site,089,3,Major Cranial/Facial Bone Procedures,Major,P,Surgical,1,$59442.00,$59442.00,$36873.00,$36873.00
+2011,324,Adirondack Medical Center-Saranac Lake Site,091,1,Other Major Head & Neck Procedures,Minor,P,Surgical,2,$20665.00,$20665.00,$11292.00,$11292.00
+2011,324,Adirondack Medical Center-Saranac Lake Site,091,2,Other Major Head & Neck Procedures,Moderate,P,Surgical,1,$16167.00,$16167.00,$7911.00,$7911.00
+2011,324,Adirondack Medical Center-Saranac Lake Site,092,1,Facial Bone Procedures Except Major Cranial/Facial Bone Procedures,Minor,P,Surgical,1,$14125.00,$14125.00,$6449.00,$6449.00
+2011,324,Adirondack Medical Center-Saranac Lake Site,095,1,Cleft Lip & Palate Repair,Minor,P,Surgical,1,$12639.00,$12639.00,$6200.00,$6200.00
+2011,324,Adirondack Medical Center-Saranac Lake Site,098,2,"Other Ear, Nose, Mouth & Throat Procedures",Moderate,P,Surgical,1,$7492.00,$7492.00,$3944.00,$3944.00
+2011,324,Adirondack Medical Center-Saranac Lake Site,111,2,Vertigo & Other Labyrinth Disorders,Moderate,M,Medical,1,$7498.00,$7498.00,$2825.00,$2825.00
+2011,324,Adirondack Medical Center-Saranac Lake Site,111,1,Vertigo & Other Labyrinth Disorders,Minor,M,Medical,1,$8330.00,$8330.00,$3290.00,$3290.00
+2011,324,Adirondack Medical Center-Saranac Lake Site,113,1,Infections Of Upper Respiratory Tract,Minor,M,Medical,2,$4741.00,$4741.00,$2471.00,$2471.00
+2011,324,Adirondack Medical Center-Saranac Lake Site,113,2,Infections Of Upper Respiratory Tract,Moderate,M,Medical,1,$4913.00,$4913.00,$2493.00,$2493.00
+2011,324,Adirondack Medical Center-Saranac Lake Site,114,1,Dental & Oral Diseases & Injuries,Minor,M,Medical,1,$16799.00,$16799.00,$4774.00,$4774.00
+2011,324,Adirondack Medical Center-Saranac Lake Site,115,3,"Other Ear, Nose, Mouth,Throat & Cranial/Facial Diagnoses",Major,M,Medical,4,$10455.00,$8441.00,$5774.00,$4406.00
+2011,324,Adirondack Medical Center-Saranac Lake Site,115,4,"Other Ear, Nose, Mouth,Throat & Cranial/Facial Diagnoses",Extreme,M,Medical,2,$12271.00,$12271.00,$6378.00,$6378.00
+2011,324,Adirondack Medical Center-Saranac Lake Site,120,1,Major Respiratory & Chest Procedures,Minor,P,Surgical,2,$19965.00,$19965.00,$12190.00,$12190.00
+2011,324,Adirondack Medical Center-Saranac Lake Site,121,4,Other Respiratory & Chest Procedures,Extreme,P,Surgical,1,$39258.00,$39258.00,$23947.00,$23947.00
+2011,324,Adirondack Medical Center-Saranac Lake Site,121,3,Other Respiratory & Chest Procedures,Major,P,Surgical,1,$48116.00,$48116.00,$29310.00,$29310.00
+2011,324,Adirondack Medical Center-Saranac Lake Site,121,2,Other Respiratory & Chest Procedures,Moderate,P,Surgical,8,$18758.00,$14795.00,$9784.00,$7752.00
+2011,324,Adirondack Medical Center-Saranac Lake Site,121,1,Other Respiratory & Chest Procedures,Minor,P,Surgical,5,$15144.00,$13561.00,$8019.00,$7296.00
+2011,324,Adirondack Medical Center-Saranac Lake Site,130,4,Respiratory System Diagnosis W Ventilator Support 96+ Hours,Extreme,M,Medical,3,$47274.00,$53185.00,$26201.00,$27187.00
+2011,324,Adirondack Medical Center-Saranac Lake Site,130,3,Respiratory System Diagnosis W Ventilator Support 96+ Hours,Major,M,Medical,1,$56904.00,$56904.00,$33553.00,$33553.00
+2011,324,Adirondack Medical Center-Saranac Lake Site,133,1,Pulmonary Edema & Respiratory Failure,Minor,M,Medical,1,$7609.00,$7609.00,$3712.00,$3712.00
+2011,324,Adirondack Medical Center-Saranac Lake Site,133,4,Pulmonary Edema & Respiratory Failure,Extreme,M,Medical,6,$38957.00,$35975.00,$22560.00,$20689.00
+2011,324,Adirondack Medical Center-Saranac Lake Site,133,2,Pulmonary Edema & Respiratory Failure,Moderate,M,Medical,5,$13359.00,$15557.00,$6971.00,$8172.00
+2011,324,Adirondack Medical Center-Saranac Lake Site,133,3,Pulmonary Edema & Respiratory Failure,Major,M,Medical,9,$12643.00,$11398.00,$7222.00,$6653.00
+2011,324,Adirondack Medical Center-Saranac Lake Site,134,3,Pulmonary Embolism,Major,M,Medical,4,$18673.00,$16630.00,$8799.00,$7884.00
+2011,324,Adirondack Medical Center-Saranac Lake Site,134,2,Pulmonary Embolism,Moderate,M,Medical,7,$16542.00,$12431.00,$8210.00,$6800.00
+2011,324,Adirondack Medical Center-Saranac Lake Site,134,4,Pulmonary Embolism,Extreme,M,Medical,1,$22857.00,$22857.00,$13033.00,$13033.00
+2011,324,Adirondack Medical Center-Saranac Lake Site,134,1,Pulmonary Embolism,Minor,M,Medical,2,$12432.00,$12432.00,$5423.00,$5423.00
+2011,324,Adirondack Medical Center-Saranac Lake Site,135,2,Major Chest & Respiratory Trauma,Moderate,M,Medical,2,$11385.00,$11385.00,$7199.00,$7199.00
+2011,324,Adirondack Medical Center-Saranac Lake Site,135,1,Major Chest & Respiratory Trauma,Minor,M,Medical,1,$14374.00,$14374.00,$5662.00,$5662.00
+2011,324,Adirondack Medical Center-Saranac Lake Site,136,2,Respiratory Malignancy,Moderate,M,Medical,3,$13023.00,$13152.00,$7278.00,$5924.00
+2011,324,Adirondack Medical Center-Saranac Lake Site,136,3,Respiratory Malignancy,Major,M,Medical,1,$10871.00,$10871.00,$7007.00,$7007.00
+2011,324,Adirondack Medical Center-Saranac Lake Site,136,4,Respiratory Malignancy,Extreme,M,Medical,1,$68223.00,$68223.00,$35879.00,$35879.00
+2011,324,Adirondack Medical Center-Saranac Lake Site,137,3,Major Respiratory Infections & Inflammations,Major,M,Medical,9,$21216.00,$17447.00,$11598.00,$8661.00
+2011,324,Adirondack Medical Center-Saranac Lake Site,137,2,Major Respiratory Infections & Inflammations,Moderate,M,Medical,3,$14968.00,$14594.00,$8151.00,$7841.00
+2011,324,Adirondack Medical Center-Saranac Lake Site,137,4,Major Respiratory Infections & Inflammations,Extreme,M,Medical,3,$28979.00,$24333.00,$15372.00,$15189.00
+2011,324,Adirondack Medical Center-Saranac Lake Site,138,3,Bronchiolitis & Rsv Pneumonia,Major,M,Medical,1,$5348.00,$5348.00,$2653.00,$2653.00
+2011,324,Adirondack Medical Center-Saranac Lake Site,138,1,Bronchiolitis & Rsv Pneumonia,Minor,M,Medical,1,$3478.00,$3478.00,$1991.00,$1991.00
+2011,324,Adirondack Medical Center-Saranac Lake Site,138,2,Bronchiolitis & Rsv Pneumonia,Moderate,M,Medical,3,$4736.00,$4400.00,$2944.00,$3022.00
+2011,324,Adirondack Medical Center-Saranac Lake Site,139,4,Other Pneumonia,Extreme,M,Medical,7,$23928.00,$24175.00,$13119.00,$13873.00
+2011,324,Adirondack Medical Center-Saranac Lake Site,139,1,Other Pneumonia,Minor,M,Medical,4,$11861.00,$7616.00,$6244.00,$4889.00
+2011,324,Adirondack Medical Center-Saranac Lake Site,139,2,Other Pneumonia,Moderate,M,Medical,13,$10433.00,$10289.00,$5735.00,$6004.00
+2011,324,Adirondack Medical Center-Saranac Lake Site,139,3,Other Pneumonia,Major,M,Medical,25,$18361.00,$18740.00,$10081.00,$10104.00
+2011,324,Adirondack Medical Center-Saranac Lake Site,140,4,Chronic Obstructive Pulmonary Disease,Extreme,M,Medical,2,$28059.00,$28059.00,$14468.00,$14468.00
+2011,324,Adirondack Medical Center-Saranac Lake Site,140,1,Chronic Obstructive Pulmonary Disease,Minor,M,Medical,4,$11317.00,$11153.00,$6237.00,$6036.00
+2011,324,Adirondack Medical Center-Saranac Lake Site,140,3,Chronic Obstructive Pulmonary Disease,Major,M,Medical,15,$14658.00,$14542.00,$7894.00,$7638.00
+2011,324,Adirondack Medical Center-Saranac Lake Site,140,2,Chronic Obstructive Pulmonary Disease,Moderate,M,Medical,12,$13593.00,$10854.00,$7496.00,$6124.00
+2011,324,Adirondack Medical Center-Saranac Lake Site,141,2,Asthma,Moderate,M,Medical,4,$8251.00,$7497.00,$4660.00,$4233.00
+2011,324,Adirondack Medical Center-Saranac Lake Site,141,1,Asthma,Minor,M,Medical,1,$5381.00,$5381.00,$3080.00,$3080.00
+2011,324,Adirondack Medical Center-Saranac Lake Site,142,3,Interstitial & Alveolar Lung Diseases,Major,M,Medical,1,$25022.00,$25022.00,$13878.00,$13878.00
+2011,324,Adirondack Medical Center-Saranac Lake Site,142,2,Interstitial & Alveolar Lung Diseases,Moderate,M,Medical,1,$10192.00,$10192.00,$4225.00,$4225.00
+2011,324,Adirondack Medical Center-Saranac Lake Site,143,2,"Other Respiratory Diagnoses Except Signs, Symptoms & Minor Diagnoses",Moderate,M,Medical,6,$14461.00,$7851.00,$7332.00,$4688.00
+2011,324,Adirondack Medical Center-Saranac Lake Site,143,4,"Other Respiratory Diagnoses Except Signs, Symptoms & Minor Diagnoses",Extreme,M,Medical,2,$17754.00,$17754.00,$10420.00,$10420.00
+2011,324,Adirondack Medical Center-Saranac Lake Site,143,3,"Other Respiratory Diagnoses Except Signs, Symptoms & Minor Diagnoses",Major,M,Medical,3,$15350.00,$16358.00,$7793.00,$9387.00
+2011,324,Adirondack Medical Center-Saranac Lake Site,143,1,"Other Respiratory Diagnoses Except Signs, Symptoms & Minor Diagnoses",Minor,M,Medical,4,$7591.00,$6684.00,$4012.00,$3812.00
